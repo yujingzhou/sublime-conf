@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[Type your snippet here]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>binding.pry</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>pry</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>My Fancy Snippet</description>
+</snippet>
